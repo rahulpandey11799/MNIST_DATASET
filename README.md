@@ -9,8 +9,3 @@ An example of a handdrawn digit would look like this: Digit 4
 Be aware that your images have to have a black background and white line color!
 
 Furthermore your images resolution has to be 28x28px. If yours is bigger just use my UIImage rescaling extension I wrote. The line width has to be thick enough to be recognized as a digit.
-
-Information about the model
-This CNN model achieves up to 99.5% of accuracy and the structure is as follows:
-
-CNN Model
